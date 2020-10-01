@@ -1,2 +1,1 @@
-# polkadotpoker
-Crypto poker platform
+
